@@ -28,7 +28,7 @@ function App() {
         <Route path ="/create" component={CreateProduct} />
 
 
-        <Route path ="/" exact>
+        <Route path ="/" >
           <Login />
         </Route>
 

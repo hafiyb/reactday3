@@ -3,7 +3,7 @@ export const products = [
 		id: "1",
 		name: "Touareg",
 		image:
-			"images/Mazda_CX-9_2011_34_20_270_37_6_76_68_200_16_AWD_7_4_SUV_gJa.jpg",
+			"/images/Mazda_CX-9_2011_34_20_270_37_6_76_68_200_16_AWD_7_4_SUV_gJa.jpg",
 		cost: "677.32",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
@@ -18,7 +18,7 @@ export const products = [
 		id: "2",
 		name: "DeVille",
 		image:
-			"images/Chevrolet_Camaro_2019_31_18_270_20_4_74_52_188_20_RWD_4_2_Convertible_Xcu.jpg",
+			"/images/Chevrolet_Camaro_2019_31_18_270_20_4_74_52_188_20_RWD_4_2_Convertible_Xcu.jpg",
 		cost: "3474.41",
 		short_description:
 			"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec iaculis mauris.",
