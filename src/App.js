@@ -16,8 +16,8 @@ import {
 
 function App() {
   return (
-    
-    <Router className="App">
+    <div className="App">
+    <Router>
       <Header />
       <Switch>
 
@@ -25,16 +25,19 @@ function App() {
         
         <Route path ="/dashboard" component={Dashboard}></Route>
 
+        <Route path ="/create" component={CreateProduct} />
+
+
         <Route path ="/" exact>
           <Login />
         </Route>
 
-        <Route path ="/create" component={CreateProduct} />
         
 
       </Switch>
       
     </Router>
+    </div>
   );
 }
 

@@ -14,9 +14,9 @@ export default class Login extends React.Component{
                         <br/>
                         <input type="text" placeholder="Email"/>
                         <br/>
-                        <button>
-                            <Link to="/dashboard"> Using Link </Link>
-                        </button>
+                        
+                            <Link to="/dashboard"> <button>Enter</button>  </Link>
+                        
                     
                 </div>
             </div>

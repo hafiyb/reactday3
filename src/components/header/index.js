@@ -11,4 +11,4 @@ export default class Blog extends React.Component{
             </div>
         )
     }
-}
+} 
