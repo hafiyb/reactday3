@@ -14,7 +14,7 @@ export default class List extends React.Component{
             
                 <div style={{minHeight:'15vh',width:'100vw',borderBottom:'1px solid black', display:'flex',flexDirection:'row'}}>
                     <div style={{backgroundColor:'black',height:'100%',width:'200px'}}>
-                        <img src={this.props.image} alt="" style={{height:'100%', width:'100%'}} />
+                        <img src={require(this.props.image)} alt="" style={{height:'100%', width:'100%'}} />
                     </div>
                     <Link to={{
                 pathname: `/dashboard/${this.props.id}`,
