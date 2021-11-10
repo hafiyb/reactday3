@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactday3/static/css/main.574c6c53.chunk.css",
-    "main.js": "/reactday3/static/js/main.accc66b0.chunk.js",
-    "main.js.map": "/reactday3/static/js/main.accc66b0.chunk.js.map",
+    "main.js": "/reactday3/static/js/main.2f85a464.chunk.js",
+    "main.js.map": "/reactday3/static/js/main.2f85a464.chunk.js.map",
     "runtime-main.js": "/reactday3/static/js/runtime-main.c09aff53.js",
     "runtime-main.js.map": "/reactday3/static/js/runtime-main.c09aff53.js.map",
     "static/js/2.01ce4d90.chunk.js": "/reactday3/static/js/2.01ce4d90.chunk.js",
@@ -12,12 +12,16 @@
     "index.html": "/reactday3/index.html",
     "static/css/main.574c6c53.chunk.css.map": "/reactday3/static/css/main.574c6c53.chunk.css.map",
     "static/js/2.01ce4d90.chunk.js.LICENSE.txt": "/reactday3/static/js/2.01ce4d90.chunk.js.LICENSE.txt",
+    "static/media/img1.27769e6a.jpg": "/reactday3/static/media/img1.27769e6a.jpg",
+    "static/media/img2.bdd0c521.jpg": "/reactday3/static/media/img2.bdd0c521.jpg",
+    "static/media/img3.35a27a72.jpg": "/reactday3/static/media/img3.35a27a72.jpg",
+    "static/media/img6.787bd3e5.jpg": "/reactday3/static/media/img6.787bd3e5.jpg",
     "static/media/logo.6ce24c58.svg": "/reactday3/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c09aff53.js",
     "static/js/2.01ce4d90.chunk.js",
     "static/css/main.574c6c53.chunk.css",
-    "static/js/main.accc66b0.chunk.js"
+    "static/js/main.2f85a464.chunk.js"
   ]
 }
