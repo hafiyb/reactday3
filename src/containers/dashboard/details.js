@@ -18,9 +18,17 @@ export default class Details extends React.Component{
 
     render(){
         return(
-            <div>
+            <div style={{display:'flex',flexDirection:'row'}}>
                 <div className={Classes.product_img}></div>
-                <div style={{margin:'50px'}}>
+                <div style={{
+                    backgroundColor:'black',
+                    minWidth:'25vw',
+                    minHeight:'25vh',
+                }}>
+                <img src={this.data.image} style={{width:'100%'}} alt="" />
+                </div>
+                
+                <div style={{padding:'50px', width:'auto'}}>
                     <h1>{this.data.name}</h1>
                     <h4 style={{margin:'50px 0'}}>{this.data.short_description}</h4>
                     <ul>
