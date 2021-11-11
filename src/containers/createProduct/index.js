@@ -25,7 +25,7 @@ export default class CreateProduct extends React.Component{
     render(){
         return(
             <div style={{display:'flex',flexDirection:'column',alignItems:'center'}}>
-                <form action="" style={{display:'flex',flexDirection:'column'}}>
+                <form action="#" style={{display:'flex',flexDirection:'column'}}>
                     <label htmlFor="name">Name</label>
 
                     <input required id="name" type="text" placeholder="Product Name" onChange={(nameval) => {
